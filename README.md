@@ -1,4 +1,4 @@
-# Languageconverterextension
+# Language converter extension
 
 Language Translator is a Google Chrome extension designed to facilitate easy text translation between multiple languages. With features such as text-to-speech, copy functionality, and easy language swapping, this tool aims to enhance your language learning and translation experience.
 
